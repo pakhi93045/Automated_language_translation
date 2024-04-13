@@ -1,3 +1,5 @@
+pip install SpeechRecognition
+
 import streamlit as st
 import speech_recognition
 from gtts import gTTS
